@@ -42,12 +42,12 @@ body {
 
 /* 手順の中にある補足リスト */
 .info-box ol li ul {
-    margin: 4px 0 0;
+    margin: 1px 0 0;
     padding-left: 20px;
 }
 
 .info-box ol li ul li {
-    margin-bottom: 2px;
+    margin-bottom: 1px;
 }
 
 /* その他の機能 */
