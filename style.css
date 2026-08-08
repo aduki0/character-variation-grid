@@ -29,7 +29,7 @@ body {
 .info-box li:last-child {
     margin-bottom: 0;
 }
-```css
+
 /* 使い方リストの余白を調整 */
 .info-box ol {
     margin: 0;
@@ -54,7 +54,7 @@ body {
 .info-box > ul {
     margin: 0;
 }
-```
+
 
 
 /* README（detailsで折りたたみ表示。普段は控えめな見た目にしておく） */
