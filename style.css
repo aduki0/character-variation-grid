@@ -4,15 +4,30 @@ body {
 }
 
 /* 説明文（info-box）用のスタイル */
-.info-box ol,
+.info-box {
+    margin: 40px 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #777;
+    border-radius: 4px;
+}
+.info-box h4 {
+    margin: 0 0 12px 0;
+    color: #333;
+    font-size: 16px;
+}
 .info-box ul {
     margin: 0;
-    padding-left: 22px;
+    padding-left: 20px;
 }
-
 .info-box li {
-    margin-bottom: 2px;
-    line-height: 1.35;
+    font-size: 14px;
+    color: #555;
+    line-height: 1.4;
+    margin-bottom: 4px;
+}
+.info-box li:last-child {
+    margin-bottom: 0;
 }
 
 /* 使い方リストの余白を調整 */
