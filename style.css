@@ -40,7 +40,6 @@ body {
 .info-box li:last-child {
     margin-bottom: 0;
 }
-
 /* 使い方リストの余白を調整 */
 .info-box ol {
     margin: 0;
